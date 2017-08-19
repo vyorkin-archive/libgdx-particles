@@ -161,4 +161,4 @@ aligned: false
 additive: true
 behind: false
 - Image Path -
-/Users/vyorkin/Documents/GameDev/libgdx-particles/images/star2.png
+images\\star2.png
