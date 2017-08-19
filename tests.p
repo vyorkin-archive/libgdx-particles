@@ -123,7 +123,7 @@ aligned: false
 additive: true
 behind: false
 - Image Path -
-/Users/vyorkin/Documents/GameDev/libgdx-particles/images/simple.png
+images\\simple.png
 
 
 fire
@@ -260,7 +260,7 @@ aligned: false
 additive: true
 behind: false
 - Image Path -
-/Users/vyorkin/Documents/GameDev/libgdx-particles/images/fire.png
+images\\fire.png
 
 
 stars
@@ -425,7 +425,7 @@ aligned: false
 additive: true
 behind: false
 - Image Path -
-/Users/vyorkin/Documents/GameDev/libgdx-particles/images/star.png
+images\\star1.png
 
 
 smoke
@@ -568,7 +568,7 @@ aligned: false
 additive: true
 behind: false
 - Image Path -
-/Users/vyorkin/Documents/GameDev/libgdx-particles/images/cloud.png
+images\\cloud.png
 
 
 salut
@@ -717,4 +717,4 @@ aligned: false
 additive: true
 behind: false
 - Image Path -
-/Users/vyorkin/Documents/GameDev/libgdx-particles/images/1.png
+images\\1.png

@@ -167,7 +167,7 @@ aligned: false
 additive: true
 behind: false
 - Image Path -
-/Users/vyorkin/Documents/GameDev/projects/libgdx-particles/images/simple.png
+images\\simple.png
 
 
 inner
@@ -329,4 +329,4 @@ aligned: false
 additive: true
 behind: false
 - Image Path -
-/Users/vyorkin/Documents/GameDev/projects/libgdx-particles/images/simple.png
+images\\simple.png
